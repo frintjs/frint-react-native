@@ -1,5 +1,6 @@
 {
   "name": "frint-react-native",
+  "version": "0.1.0",
   "description": "React Native integration for FrintJS",
   "scripts": {
     "lint": "eslint index.js"
