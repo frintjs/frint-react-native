@@ -1,0 +1,10 @@
+language: node_js
+
+node_js:
+  - 'lts/*'
+
+script:
+  - 'npm run lint'
+
+notifications:
+  email: false
