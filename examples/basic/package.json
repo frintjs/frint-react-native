@@ -1,0 +1,22 @@
+{
+  "name": "ReactNativeProject",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "frint": "^3.2.1",
+    "frint-react": "^3.2.1",
+    "frint-react-native": "^0.1.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.48.4",
+    "rxjs": "^5.4.3"
+  },
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "react-dom": "^16.0.0"
+  }
+}
