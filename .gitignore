@@ -4,15 +4,13 @@ lerna-debug.log
 yarn.lock
 lib
 package-lock.json
+coverage
+.nyc_output/
 
 # Ignore vim temporary files
 *~
 *.swp
 *.swo
-
-coverage
-.nyc_output/
-
 
 ### macOS ###
 *.DS_Store
