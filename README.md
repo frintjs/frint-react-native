@@ -1,5 +1,7 @@
 # frint-react-native [![npm](https://img.shields.io/npm/v/frint-react-native.svg)](https://www.npmjs.com/package/frint-react-native) [![Build Status](https://img.shields.io/travis/frintjs/frint-react-native/master.svg)](https://travis-ci.org/frintjs/frint-react-native) [![License](https://img.shields.io/github/license/frintjs/frint-react-native.svg)](https://github.com/frintjs/frint-react-native/blob/master/LICENSE)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/frintjs/frint-react-native.svg)](https://greenkeeper.io/)
+
 > React Native integration for FrintJS.
 
 ## Install

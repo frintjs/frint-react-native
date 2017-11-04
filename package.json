@@ -24,7 +24,7 @@
   "homepage": "https://github.com/frintjs/frint-react-native#readme",
   "devDependencies": {
     "eslint": "^4.9.0",
-    "frint": "^3.2.1",
-    "frint-react": "^3.2.1"
+    "frint": "^4.1.0",
+    "frint-react": "^4.1.0"
   }
 }
